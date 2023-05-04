@@ -4,8 +4,8 @@ generate_chain.py is a Python script that allows users to define object chains o
 
 # System requirements
 
-Python 3.x
-OpenCV (version 2 or 3)
+- Python 3.x
+- OpenCV (version 2 or 3)
 
 # Usage
 
